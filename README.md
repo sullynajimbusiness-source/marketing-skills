@@ -1,4 +1,4 @@
-# Ryze AI - Claude Marketing Skills
+# Suleiman Najim - Claude Marketing Skills
 
 [![Claude Skills for Marketers](https://raw.githubusercontent.com/irinabuht12-oss/claude-marketing-skills/main/banner.png)](https://get-ryze.ai/blog/claude-marketing-skills)
 
@@ -40,7 +40,7 @@
 
 These skills are **100% free**.
 
-Need help? Contact us at **hello@get-ryze.ai**
+Need help? Contact us at **sulysalim@hotmail.cm**
 
 ---
 
