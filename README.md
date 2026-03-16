@@ -1,4 +1,4 @@
-# Suleiman Najim - Claude Marketing Skills
+# Claude Marketing Skills
 
 [![Claude Skills for Marketers](https://www.linkedin.com/in/suleiman-najim-87457a211/)](https://get-ryze.ai/blog/claude-marketing-skills)
 
