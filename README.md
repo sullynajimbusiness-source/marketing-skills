@@ -40,8 +40,5 @@
 
 These skills are **100% free**.
 
-Need help? Contact us at **sulysalim@hotmail.cm**
+Need help? Contact me at **sulysalim@hotmail.com**
 
----
-
-Built by [Ryze AI](https://get-ryze.ai) — AI that runs your paid ads
